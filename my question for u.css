@@ -1,0 +1,32 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: purple;
+}
+
+button {
+    background-color: hotpink;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: deeppink;
+}
+
+#result {
+    margin-top: 20px;
+    color: darkred;
+    font-size: 20px;
+    font-weight: bold;
+}
+
